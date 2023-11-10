@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "OPM HomePage",
+  "version": "1.0",
+  "description": "Custom theme with a GIF background for new tabs",
+  "permissions": ["tabs"],
+  "chrome_url_overrides": {
+    "newtab": "home.html"
+  }
+}
