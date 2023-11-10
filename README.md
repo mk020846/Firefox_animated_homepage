@@ -8,7 +8,7 @@ This is a firefox extension source code that changes the newtab background to a 
 ## Step 4 : Open firefox and type about:debugging.
 ## Step 5 : Click on THIS FIREFOX
 ## Step 6 : Click on add Temporary Add-on
-## Final Step: Locate the Repository folder and open select manifest.json to open.
+## Final Step: Locate the Repository folder and select manifest.json to open.
 
 Don't Hesitate to ask anything about it:-
 [DISCORD] :- deadpool_1407
